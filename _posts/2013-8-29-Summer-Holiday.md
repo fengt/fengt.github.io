@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《暑假》
+title: 暑假
 ---
 
 > 酷暑已去，甘凉渐来；
