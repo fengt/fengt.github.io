@@ -17,8 +17,8 @@ avatar: https://avatars3.githubusercontent.com/u/3158263?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: fhalcyon@gmail.com
-  facebook: 100011769420053
+  # email: jfengtao@gmail.com
+  # facebook: 100011769420053
   flickr:
   github: fengt
   instagram:
@@ -33,10 +33,10 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: fengtao
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-76811381-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
