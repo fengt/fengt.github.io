@@ -4,11 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-I'm fengtao, a 26-year old engineer. I currently work as JAVA Engineer in the E-commerce industry.
+I'm fengtao, a twenty-seven years old. I currently work as JAVA Engineer in the E-commerce industry.
 
 I studied Computer Science at Zhengzhou Institute of Aeronautical Industry Management and I'm mainly interested by Programming, Reading and Sports.
 
-More recently, I started using Python to build some Web App and I take a real pleasure developing with such a concise and high-level language.
+More recently, I started using Ruby to build some Web App and I take a real pleasure developing with such a concise and high-level language.
 
 
 无径之林 常有情趣
